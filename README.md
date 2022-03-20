@@ -1,2 +1,2 @@
-# hello-world
-begining to github
+#Shorthest path- dijkstra
+Simple demonstration with graph
